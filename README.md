@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @straycatcoder
 - 👀 I’m interested in programming, 
-- 🌱 I’m currently learning Julia
+- 🌱 I’m currently learning Julia, Mathematica,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
